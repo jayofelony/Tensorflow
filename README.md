@@ -1,5 +1,5 @@
 # Tensorflow
-Tensorflow 1.15.0 for https://github.com/jayofelony/pwnagotchi
+Tensorflow 1.15.0 for [Pwnagtochi](https://github.com/jayofelony/pwnagotchi)
 
 Install using
 
